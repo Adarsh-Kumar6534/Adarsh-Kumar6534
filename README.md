@@ -1,31 +1,83 @@
-<h1 align="center">Hi 👋, I'm Adarsh</h1>
-<h3 align="center">A passionate data science student and a frontend developer</h3>
+<!-- README.md for Adarsh's GitHub Profile -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-kumar6534&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-kumar6534" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh-kumar6534" alt="adarsh-kumar6534" /></a> </p>
-
-- 🔭 I’m currently working on **flutter projects**
-
-- 🌱 I’m currently learning **flutter, react and powerbi**
-
-- 🤝 I’m looking for help with **frontend and backend**
-
-- 💬 Ask me about **python, C++**
-
-- 📫 How to reach me **adarshsingh6534@gmail.com**
-
-- ⚡ Fun fact **I am boring**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adarsh65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh65" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adarshsingh6534" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adarshsingh6534" height="30" width="40" /></a>
+<!-- Header Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Adarsh;CSE+Student+%7C+Data+Science+Branch;Flutter+Dev+%7C+Cloud+Enthusiast+%7C+Engineer" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<!-- Hero GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh-kumar6534&show_icons=true&locale=en&layout=compact" alt="adarsh-kumar6534" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh-kumar6534&show_icons=true&locale=en" alt="adarsh-kumar6534" /></p>
+### 🚀 About Me
+
+I'm **Adarsh**, a Computer Science student from the **Data Science** branch, passionate about building futuristic apps and exploring the cloud world. I love coding, learning new technologies, and building clean UIs. My goal is to become a successful engineer and make impactful tech for the future. 🌍💡
+
+- 🛠️ Currently exploring: **Flutter**, **React**, **Power BI**
+- 🧠 Skills: `Python`, `C++`, `Java`, `HTML`, `CSS`, `Linux`, `MySQL`
+- 📈 Tools: `Pandas`, `Numpy`, `OpenCV`, `Seaborn`, `Matplotlib`, `Excel`
+- ☁️ Also Interested In: `Cloud`, `DevOps`, `Backend APIs`
+- 🎯 Dream: Build apps that solve real-world problems
+
+---
+
+### 📬 Contact Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/adarsh65" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:adarshsingh6534@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/adarshsingh6534">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,flutter,react,linux,mysql,git,github,aws" /><br>
+  <img src="https://skillicons.dev/icons?i=opencv,pandas,numpy,seaborn,matplotlib,powerbi,excel" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Kumar6534&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Kumar6534&layout=compact&theme=radical" width="49%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adarsh-Kumar6534&theme=onedark&no-frame=true&row=1" />
+</p>
+
+---
+
+### 🎮 Just for Fun
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adarsh-Kumar6534&repo=Habit-Tracker-Flutter&theme=dark" width="400" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
+
+<p align="center">Made with ❤️ by <strong>Adarsh</strong></p>

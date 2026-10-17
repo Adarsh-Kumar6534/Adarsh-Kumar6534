@@ -20,7 +20,7 @@
   <a href="mailto:adarshsingh6534@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Adarsh-Kumar6534&style=for-the-badge&color=8B5CF6" alt="Profile views"/>
+
 </p>
 
 ---

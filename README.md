@@ -203,9 +203,7 @@ A seismic data exploration project focused on presenting earthquake information 
 
 <p align="center">
   <img
-    src="
-[![trophy](https://vercel.app)](https://github.com/ryo-ma/github-profile-trophy)
-"
+    src="https://github-profile-trophy-fork-two.vercel.app/?username=Adarsh-Kumar6534&theme=dracula"
     alt="GitHub Trophies"
   />
 </p>

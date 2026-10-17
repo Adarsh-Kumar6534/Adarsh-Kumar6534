@@ -196,19 +196,7 @@ A seismic data exploration project focused on presenting earthquake information 
 
 ---
 
-## 🏆 GitHub Trophies
 
-
-
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy-fork-two.vercel.app/?username=Adarsh-Kumar6534&theme=dracula"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
 
 ## 🐍 Contribution Graph
 

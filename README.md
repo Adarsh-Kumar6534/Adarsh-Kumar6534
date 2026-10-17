@@ -198,8 +198,15 @@ A seismic data exploration project focused on presenting earthquake information 
 
 ## 🏆 GitHub Trophies
 
+
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adarsh-Kumar6534&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Adarsh-Kumar6534&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
